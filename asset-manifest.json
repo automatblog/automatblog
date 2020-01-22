@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/automatblog/static/css/main.d1b05096.chunk.css",
+    "main.js": "/automatblog/static/js/main.f60ab9d4.chunk.js",
+    "main.js.map": "/automatblog/static/js/main.f60ab9d4.chunk.js.map",
+    "runtime-main.js": "/automatblog/static/js/runtime-main.1c1af28e.js",
+    "runtime-main.js.map": "/automatblog/static/js/runtime-main.1c1af28e.js.map",
+    "static/js/2.ee7ba151.chunk.js": "/automatblog/static/js/2.ee7ba151.chunk.js",
+    "static/js/2.ee7ba151.chunk.js.map": "/automatblog/static/js/2.ee7ba151.chunk.js.map",
+    "index.html": "/automatblog/index.html",
+    "precache-manifest.18238c30bf6d208bf662f4fffa559c90.js": "/automatblog/precache-manifest.18238c30bf6d208bf662f4fffa559c90.js",
+    "service-worker.js": "/automatblog/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/automatblog/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ee7ba151.chunk.js.LICENSE": "/automatblog/static/js/2.ee7ba151.chunk.js.LICENSE",
+    "static/media/logo.svg": "/automatblog/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c1af28e.js",
+    "static/js/2.ee7ba151.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f60ab9d4.chunk.js"
+  ]
+}
